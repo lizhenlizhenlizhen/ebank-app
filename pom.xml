@@ -13,7 +13,7 @@
 		<!-- 若有web.xml则可以改为true，否则为false -->
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 		<!-- spring5 设置版本号 -->
-		<spring.version>5.1.7.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
 	</properties>
 
 	<!-- Web项目所依赖的jar，类库 -->
